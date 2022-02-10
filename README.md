@@ -1,3 +1,4 @@
 #  Typescript Study
 
-1.
+개발환경
+node.js

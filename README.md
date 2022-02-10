@@ -1,2 +1,3 @@
 #  Typescript Study
 
+1.
